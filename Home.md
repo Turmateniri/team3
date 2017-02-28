@@ -36,13 +36,15 @@ The app is based on the situation of Chinese universities. Students cannot get i
  
 3. What is/are the problem/s you want to solve?
 
-Information problem. 
+The problem we want to solve is the misconception many people have of chinese cuisine. Many people believe that chinese food is similar, if not the same as take-out chinese food. They also believe that chinese food is tedious and difficult to make. We wish to solve these problems with our app 
  
 4. Who are the users you are targeting?
 
-Students and teachers in Chinese University.
+We are targeting people that are interested in making food at home with the ingredients they already have, no need for shopping for a lot of extra ingredients for one dish.
  
 5. How will this app solve the tackled problem/s? Provide a vision statement.
+
+Our app solves the problem by introducing quick and easy recipes of chinese cuisine that people can make with the ingredients they already have.
  
 6. What are the major features of the app?
  
