@@ -30,6 +30,7 @@ In China, there are 37 million students in university or college in 2016(accordi
 	School Board	
  
  2 . What is the app you want to develop? (Description in less than 250 words)
+
 The app is based on the situation of Chinese universities. Students cannot get information from school without delay, because very few schools have their own study systems like Blackboard. So, in most universities, students must inquire their advisers to get information, such as major transfer regulation and school temporary closing information. There are two main reasons caused this situation. Firstly, schools have no money to create Blackboard like systems. The average tuition of university is around 1000 dollars per year. The service based on the cost is reasonable. Second reason is: in Chinese culture, hardworking is the most important virtue to a student. So teachers believe students should do their best for very thing in school.  
  
 3. What is/are the problem/s you want to solve?
