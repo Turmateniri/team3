@@ -28,7 +28,7 @@ In China, there are 37 million students in university or college in 2016(accordi
 
 1 . What is the name of the app you want to develop? (Tentative name)
 
-	School Board	
+School Board	
  
  2 . What is the app you want to develop? (Description in less than 250 words)
 
