@@ -29,21 +29,28 @@ This app is a Chinese Cuisine App, designed to help people who wish to make Chin
 [Our Idea Proposal](https://github.com/paceuniversity/CS3892017team3/wiki/Idea-Proposal)
 
 **Product Backlog**
-
 ***
+
 **Architecture & Design**
+***
 
 **Content**
+***
 
 **Sprint 1**
+***
 
 **Sprint 2**
+***
 
 **Sprint 3**
+***
 
 **Process description**
+***
 
 **Communications**
+***
 Slack
 
 **Tools**
