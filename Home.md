@@ -57,7 +57,7 @@ Major features our app will include are:
 * How is this app unique? Why do users need this app?
  
 * What are the risks associated with the development of this app? Why wouldn’t it be delivered completely (scope), on time and on budget? Identify 3 to 5 risks that are relevant in your case.
- - There may be too many different recipes and/or ingredient combinations.
+ -There may be too many different recipes and/or ingredient combinations.
 
 * What similar apps exist on the market? (at least 5 apps with links and descriptions)
 
