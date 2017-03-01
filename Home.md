@@ -12,10 +12,11 @@ Product Owner
 
 Raphael Ades-Aron
 ra68783n@pace.edu
+Content Manager
 
 William Champ
 wc28888n@pace.edu 
-
+Scrum Master
 
 **Project Description**
 ------                                                                                                                                        
