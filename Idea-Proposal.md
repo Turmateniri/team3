@@ -1,23 +1,23 @@
 **Idea Proposal**
 
 * What is the name of the app you want to develop?
-
+------
 [ Chinese Cuisine App ] needs real name
   
 * What is/are the problem/s you want to solve?
-
+------
 The problem we want to solve is the misconception many people have of Chinese cuisine. Many people believe that Chinese food is similar, if not the same as take-out Chinese food. They also believe that Chinese food is tedious and difficult to make. We wish to solve these problems with our app. Also, users need our app when their fridge is full and they have no idea what dishes to cook.
  
 * Who are the users you are targeting?
-
+------
 We are targeting people that are interested in making real Chinese food at home with the ingredients they already have, no need for shopping for a lot of extra ingredients for one dish.
  
 * How will this app solve the tackled problem/s? Provide a vision statement.
-
+------
 Our app solves the problem by introducing quick and easy recipes of Chinese cuisine that people can make with the ingredients they already have. Where people can make and appreciate real and easy to make Chinese cuisine.
  
 * What are the major features of the app?
- 
+------
 Major features our app will include are: 
 
 1. A recipe list
@@ -33,17 +33,17 @@ Major features our app will include are:
 
 
 * How is this app unique? Why do users need this app?
-
+------
 1. Users need our app when their fridge is full and they have no idea what dishes to cook. Customers could use our app to search recipe based on ingredients instead of the name of food. For example, customers could get recommendation recipe based on what they have in their refrigerate. 
 2. Customers could have an option to upload their own recipe. The more native Chinese upload their own homemade style recipe, the more people understand Chinese food.
 3. An party organizer that allows customer share their own dishes to each other.  
  
 * What are the risks associated with the development of this app? Why wouldn’t it be delivered completely (scope), on time and on budget? Identify 3 to 5 risks that are relevant in your case.
-
+------
 -There may be too many different recipes and/or ingredient combinations.
 
 * What similar apps exist on the market? (at least 5 apps with links and descriptions)
-
+------
 1. “Chinese Food Recipe” 
 This is a Chinese recipe. It mainly contains meat dishes, dumplings, snacks, noodles, Chinese pancake and salad. Do not contain: rating system, uploading, community interacting function. So this app is mainly informative software. People use it to search recipe.[Link to description](https://play.google.com/store/apps/details?id=com.andromo.dev551559.app530131&hl=en)
 
