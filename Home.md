@@ -1,4 +1,6 @@
 
+***
+
 
 The Team
 
@@ -28,8 +30,7 @@ This app is a Chinese Cuisine App, designed to help people who wish to make Chin
 
 [Our Idea Proposal](https://github.com/paceuniversity/CS3892017team3/wiki/Idea-Proposal)
 
-**Product Backlog**
-***
+**Product Backlog*****
 
 **Architecture & Design**
 ***
@@ -59,6 +60,8 @@ Github, Android Studio
 
 
  
+
+
 
 
 
