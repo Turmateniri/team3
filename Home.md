@@ -16,7 +16,6 @@ ra68783n@pace.edu
 William Champ
 wc28888n@pace.edu 
 
-***
 
 **Project Description**
 ------                                                                                                                                        
@@ -35,25 +34,26 @@ This app is a Chinese Cuisine App, designed to help people who wish to make Chin
 [Architecture](https://github.com/paceuniversity/CS3892017team3/wiki/Architecture-&-Design)
 
 **Content**
-***
+------
 
 **Sprint 1**
-***
+------
 
 **Sprint 2**
-***
+------
 
 **Sprint 3**
-***
+------
 
 **Process description**
-***
+------
 
 **Communications**
-***
+------
 Slack
 
 **Tools**
+------
 Github, Android Studio
 
 
