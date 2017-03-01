@@ -32,7 +32,7 @@ This app is a Chinese Cuisine App, designed to help people who wish to make Chin
   
 * What is/are the problem/s you want to solve?
 
-The problem we want to solve is the misconception many people have of Chinese cuisine. Many people believe that Chinese food is similar, if not the same as take-out Chinese food. They also believe that Chinese food is tedious and difficult to make. We wish to solve these problems with our app. 
+The problem we want to solve is the misconception many people have of Chinese cuisine. Many people believe that Chinese food is similar, if not the same as take-out Chinese food. They also believe that Chinese food is tedious and difficult to make. We wish to solve these problems with our app. Also, users need our app when their fridge is full and they have no idea what dishes to cook.
  
 * Who are the users you are targeting?
 
@@ -54,7 +54,15 @@ Major features our app will include are:
 
 4. Some interesting fun-facts about each recipe
 
+5. An upload function allows customer share their homemade style dishes.
+
+
+
 * How is this app unique? Why do users need this app?
+
+1. Users need our app when their fridge is full and they have no idea what dishes to cook. Customers could use our app to search recipe based on ingredients instead of the name of food. For example, customers could get recommendation recipe based on what they have in their refrigerate. 
+2. Customers could have an option to upload their own recipe. The more native Chinese upload their own homemade style recipe, the more people understand Chinese food.
+3. An party organizer that allows customer share their own dishes to each other.  
  
 * What are the risks associated with the development of this app? Why wouldn’t it be delivered completely (scope), on time and on budget? Identify 3 to 5 risks that are relevant in your case.
 
