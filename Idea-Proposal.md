@@ -38,7 +38,10 @@ Major features our app will include are:
  
 What are the risks associated with the development of this app? Why wouldn’t it be delivered completely (scope), on time and on budget? Identify 3 to 5 risks that are relevant in your case.
 ------
--There may be too many different recipes and/or ingredient combinations.
+1) There may be too many different recipes and/or ingredient combinations.
+2) Database, uploading function
+3) Login function
+4) For the party organizer function, maybe it is not secure to meet strange people and eat food from strangers. 
 
 6. What similar apps exist on the market? (at least 5 apps with links and descriptions)
 ------
