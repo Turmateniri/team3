@@ -46,21 +46,50 @@ Our app solves the problem by introducing quick and easy recipes of Chinese cuis
  
 Major features our app will include are: 
 
-1. A recipe list
+    1. A recipe list
 
-2. A search function to find recipes based on specific ingredients.
+    2. A search function to find recipes based on specific ingredients.
 
-3. A matching service where you input all of the ingredients you currently have (in different sections e.g. protein, fish, grains, spices, vegetables, fruits), and a recipe is output with most-every ingredient consisting of something you already have. 
+    3. A matching service where you input all of the ingredients you currently have (in different sections e.g. protein, fish, grains, spices, vegetables, fruits), and a recipe is output with most-every ingredient consisting of something you already have. 
 
-4. Some interesting fun-facts about each recipe
+    4. Some interesting fun-facts about each recipe
 
 * How is this app unique? Why do users need this app?
  
 * What are the risks associated with the development of this app? Why wouldn’t it be delivered completely (scope), on time and on budget? Identify 3 to 5 risks that are relevant in your case.
 
- -There may be too many different recipes and/or ingredient combinations.
+    -There may be too many different recipes and/or ingredient combinations.
 
 * What similar apps exist on the market? (at least 5 apps with links and descriptions)
+    The similar product contains:
+    1. “Chinese Food Recipe” 
+    This is a Chinese recipe. It mainly contains meat dishes, dumplings, snacks, noodles, Chinese pancake and salad. Do not contain: rating system, uploading, community interacting function. So this app is mainly informative software. People use it to search recipe.
+
+[Link to description](https://play.google.com/store/apps/details?id=com.andromo.dev551559.app530131&hl=en)
+
+
+    2. “Allrecipes Chinese Recipes”
+This app is a food twitter. Customers upload their recipes and others could look up these uploaded recipe. Target customers are divided in two parts: a) customers look for recipes; b) customers already have recipe, they want to upload their recipe and share to other customers. “a” part Customers could rate the recipes that “b” part customers uploaded. 
+[Link to official description](https://play.google.com/store/apps/details?id=r.recipes.chinese&hl=en)
+
+    3. “XiaChuFang” – go to the kitchen
+Since our target customers are both Chinese people abroad and the people in China mainland. We explored the Chinese Android market. “go to the kitchen” is the most popular Chinese food recipe app in China. The app features involve three parts group: 
+First one (a) is the App owner: they will make some informative recipes or news on the main screen. Second one (b) it the customers who likes to share their recipe and write the instruction. Third group (c) is the customers who like to search recipes: when they finish their own dish (based on a specific dish that (b) posted). Also, (c) could rate (b)’s recipe: whether it is doable, whether the recipe is detailed. 
+
+    By the way, Chinese Android market is unique. In China, all the smart phones are not embedded or cannot be embedded Google Play service. China Android market has its own markets. 
+Here is an Android version distribution graph on March 8, 2016:
+
+[Link to graph](http://img.it610.com/image/info2/206033612fe84c9286fac1ec7f9caeed.jpg)
+
+    4. "DouGuo Delicious food":(China market)
+    It is a similar product with "go to kitchen". The main features are similar,but it contains a unique feature: recipe search could do "one click buying". One click buying means that customers could buy all the ingredients they need (based on the recipe). 
+[Link to official description](http://sj.qq.com/myapp/detail.htm?apkName=com.douguo.recipe)
+
+    5. "Food Network In the Kitchen" (Google play)
+    It is a informative recipe application. It is unique because customers could follow the instruction of famous chiefs. 
+[Link to description](https://play.google.com/store/apps/details?id=com.scripps.android.foodnetwork&hl=en) 
+
+
 
 
 
