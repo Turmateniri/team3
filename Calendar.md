@@ -1,1 +1,0 @@
-[Our Project Calender](https://calendar.google.com/calendar/embed?src=9u0drlavga9hcdbi91q3opo59k@group.calendar.google.com&ctz=America/New_York)
