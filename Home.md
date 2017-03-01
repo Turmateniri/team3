@@ -1,4 +1,4 @@
-School Board
+
 
 The Team
 
