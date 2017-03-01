@@ -79,14 +79,17 @@ First one (a) is the App owner: they will make some informative recipes or news 
 By the way, Chinese Android market is unique. In China, all the smart phones are not embedded or cannot be embedded Google Play service. China Android market has its own markets. 
 Here is an Android version distribution graph on March 8, 2016:
 
+[Link to description](http://sj.qq.com/myapp/detail.htm?apkName=com.xiachufang)
 [Link to graph](http://img.it610.com/image/info2/206033612fe84c9286fac1ec7f9caeed.jpg)
 
 4. "DouGuo Delicious food":(China market)
 It is a similar product with "go to kitchen". The main features are similar,but it contains a unique feature: recipe search could do "one click buying". One click buying means that customers could buy all the ingredients they need (based on the recipe). 
+
 [Link to official description](http://sj.qq.com/myapp/detail.htm?apkName=com.douguo.recipe)
 
 5. "Food Network In the Kitchen" (Google play)
 It is a informative recipe application. It is unique because customers could follow the instruction of famous chiefs. 
+
 [Link to description](https://play.google.com/store/apps/details?id=com.scripps.android.foodnetwork&hl=en) 
 
 
