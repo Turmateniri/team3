@@ -26,7 +26,9 @@ Major features our app will include are:
 
 4). Some interesting fun-facts about each recipe
 
-5). An upload function allows customer share their homemade style dishes.
+5). An upload function allows customer share their homemade style dishes.(undecided)
+
+6). An party organization function allows customer to share the dishes physically. 
 
 
 
