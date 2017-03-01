@@ -30,6 +30,11 @@ Major features our app will include are:
 
 6). An party organization function allows customer to share the dishes physically. 
 
+In summary, there are three main function in our app: 
+a)  Recipe searching function
+b)  Uploading function (more and more recipe will be created by customer, the app could be "self-grow")
+c)  party organizer
+
 
 
 5. How is this app unique? Why do users need this app?
