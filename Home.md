@@ -55,7 +55,7 @@ Slack
 
 **Tools**
 ------
-Github, Android Studio
+Github, Android Studio, Firebase
 
 
 
