@@ -61,7 +61,6 @@ Major features our app will include are:
 -There may be too many different recipes and/or ingredient combinations.
 
 * What similar apps exist on the market? (at least 5 apps with links and descriptions)
-The similar product contains:
 1. “Chinese Food Recipe” 
 This is a Chinese recipe. It mainly contains meat dishes, dumplings, snacks, noodles, Chinese pancake and salad. Do not contain: rating system, uploading, community interacting function. So this app is mainly informative software. People use it to search recipe.[Link to description](https://play.google.com/store/apps/details?id=com.andromo.dev551559.app530131&hl=en)
 
